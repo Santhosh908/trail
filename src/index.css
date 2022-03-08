@@ -34,7 +34,7 @@ body {
   border: none;
   padding: 10px 20px;
   margin: 5px;
-  border-radius: 5px;
+  border-radius: 7px;
   cursor: pointer;
   text-decoration: none;
   font-size: 15px;
@@ -42,6 +42,7 @@ body {
 }
 .btn:focus {
   outline: none;
+  outline-color: #16c1d8;
 }
 
 .btn:active {
