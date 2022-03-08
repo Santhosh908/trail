@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
+  var name="santhosh";
   return (
     <div className="App">
-      <h1>This is me</h1>
+      <h1>This is me {name}</h1>
     </div>
   );
 }
